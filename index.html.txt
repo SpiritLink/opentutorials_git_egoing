@@ -1,8 +1,7 @@
 <html>
 	<head></head>
-	<title>
-		Git 소개 
-	</title>
+	<meta charset="UTF - 8" />
+	<title>Git 소개</title>
 	<body>
 		<header>
 			<h1>Git</h1>
